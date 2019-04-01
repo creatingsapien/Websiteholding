@@ -12,19 +12,24 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
+                          <div class="row">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p class="col-sm-4">{{ post.description }}</p>
+                            <p class="col-sm-6">{{ post.description }}</p>
+                          </div>
+                          <div class="row">
                             <div class="col-sm-8">
-                              <div class="col-sm-4">
-                                <img src="img/portfolio/{{ post.result1_img }}" class="img-responsive img-centered" alt="{{ post.result1 }}" width="128" height="128">
-                                <h3>{{ post.result1 }}</h3>
+                              <div class="row">
+                                <div class="col-sm-4">
+                                  <img src="img/portfolio/{{ post.result1_img }}" class="img-responsive img-centered" alt="{{ post.result1 }}" width="128" height="128">
+                                  <h3>{{ post.result1 }}</h3>
+                                </div>
+                                <div class="col-sm-4">
+                                  <img src="img/portfolio/{{ post.result2_img }}" class="img-responsive img-centered" alt="{{ post.result2 }}" width="128" height="128">
+                                  <h3>{{ post.result2 }}</h3>
                               </div>
-                              <div class="col-sm-4">
-                                <img src="img/portfolio/{{ post.result2_img }}" class="img-responsive img-centered" alt="{{ post.result2 }}" width="128" height="128">
-                                <h3>{{ post.result2 }}</h3>
-                              </div>
+                              <div class="row">
                               <div class="col-sm-4">
                                 <img src="img/portfolio/{{ post.result3_img }}" class="img-responsive img-centered" alt="{{ post.result3 }}" width="128" height="128">
                                 <h3>{{ post.result3 }}</h3>
@@ -35,10 +40,13 @@
                               </div>
                             </div>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                          </div>
+                          </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+  </div>
 {% endfor %}
