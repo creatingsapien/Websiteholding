@@ -2,7 +2,7 @@
 title: Competitor Analysis
 subtitle: Know where you stand.
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2019-03-31
 img: cluster-analysis.png
 thumbnail: cluster-analysis.png

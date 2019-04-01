@@ -2,7 +2,7 @@
 title: Time Series Forecasting
 subtitle: Act confidently with grounded predictions.
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2019-03-31
 img: business-intelligent.png
 thumbnail: business-intelligent.png

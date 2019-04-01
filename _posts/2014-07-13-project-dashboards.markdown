@@ -2,7 +2,7 @@
 title: Intelligent Dashboards
 subtitle: Data made actionable.
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2019-03-31
 img: problem-solving.png
 thumbnail: problem-solving.png

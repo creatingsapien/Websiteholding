@@ -2,7 +2,7 @@
 title: Customer Segmentation
 subtitle: Data made actionable.
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2019-03-31
 img: user-analysis.png
 thumbnail: user-analysis.png

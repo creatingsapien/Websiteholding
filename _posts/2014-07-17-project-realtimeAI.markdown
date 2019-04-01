@@ -2,7 +2,7 @@
 title: Realtime AI Insights
 subtitle: Stay aware of what matters most.
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2019-03-31
 img: data-filtering.png
 thumbnail: data-filtering.png
