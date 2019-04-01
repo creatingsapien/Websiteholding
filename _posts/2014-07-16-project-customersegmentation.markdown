@@ -1,6 +1,6 @@
 ---
 title: Customer Segmentation
-subtitle: Data made actionable.
+subtitle: Personalize messaging & offers.
 layout: default
 modal-id: 3
 date: 2019-03-31
