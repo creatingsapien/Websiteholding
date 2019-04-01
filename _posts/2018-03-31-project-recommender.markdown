@@ -1,6 +1,6 @@
 ---
 title: Recommender Systems
-subtitle: Let your users' behavior guide product recommendations.
+subtitle: Let customers' actions guide their recommendations.
 layout: default
 modal-id: 1
 date: 2019-03-31
