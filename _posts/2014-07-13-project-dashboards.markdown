@@ -4,8 +4,8 @@ subtitle: Data made actionable.
 layout: default
 modal-id: 6
 date: 2019-03-31
-img: problem-solving.png
-thumbnail: problem-solving.png
+img: problem-solving.svg
+thumbnail: problem-solving.svg
 alt: image-alt
 result1: Increase employee autonomy
 result1_img: 419.svg

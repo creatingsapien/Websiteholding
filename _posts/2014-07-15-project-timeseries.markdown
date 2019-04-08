@@ -4,8 +4,8 @@ subtitle: Act confidently with grounded predictions.
 layout: default
 modal-id: 4
 date: 2019-03-31
-img: business-intelligent.png
-thumbnail: business-intelligent.png
+img: business-intelligent.svg
+thumbnail: business-intelligent.svg
 alt: image-alt
 result1: Respond to the market
 result1_img: 345.svg

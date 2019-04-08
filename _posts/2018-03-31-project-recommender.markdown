@@ -4,8 +4,8 @@ subtitle: Let customers' actions guide their recommendations.
 layout: default
 modal-id: 1
 date: 2019-03-31
-img: complexity.png
-thumbnail: complexity.png
+img: complexity.svg
+thumbnail: complexity.svg
 alt: image-alt
 result1: Increase revenue
 result1_img: 640.svg

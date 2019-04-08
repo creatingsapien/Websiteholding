@@ -4,8 +4,8 @@ subtitle: Stay aware of what matters most.
 layout: default
 modal-id: 2
 date: 2019-03-31
-img: data-filtering.png
-thumbnail: data-filtering.png
+img: data-filtering.svg
+thumbnail: data-filtering.svg
 alt: image-alt
 result1: Actionable insights
 result1_img: 900.svg

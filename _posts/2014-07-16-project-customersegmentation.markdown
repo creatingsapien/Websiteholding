@@ -4,8 +4,8 @@ subtitle: Personalize messaging & offers.
 layout: default
 modal-id: 3
 date: 2019-03-31
-img: user-analysis.png
-thumbnail: user-analysis.png
+img: user-analysis.svg
+thumbnail: user-analysis.svg
 alt: image-alt
 result1: Improve communication  
 result1_img: 152.svg

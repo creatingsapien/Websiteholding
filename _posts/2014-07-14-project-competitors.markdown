@@ -4,8 +4,8 @@ subtitle: Know where you stand.
 layout: default
 modal-id: 5
 date: 2019-03-31
-img: cluster-analysis.png
-thumbnail: cluster-analysis.png
+img: cluster-analysis.svg
+thumbnail: cluster-analysis.svg
 alt: image-alt
 result1: See your business in context
 result1_img: 309.svg
