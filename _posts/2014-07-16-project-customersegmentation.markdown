@@ -10,7 +10,7 @@ alt: image-alt
 result1: Improve communication  
 result1_img: user-analysis.png
 result2: Make the right offers
-result2_img: user-analysis.png
+result2_img: 2.svg
 result3: Track by customer profile
 result3_img: user-analysis.png
 result4: Learn buying patterns
