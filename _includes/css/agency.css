@@ -61,6 +61,11 @@ h6 {
     margin: 0 auto;
 }
 
+img .logo {
+  height:50px;
+  margin-top:-15px;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
