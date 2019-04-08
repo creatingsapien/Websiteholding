@@ -774,6 +774,7 @@ ul.social-buttons li a:active {
 .btn:active,
 .btn.active,
 .btn:active:focus {
+    margin-top:40px;
     outline: 0;
 }
 
