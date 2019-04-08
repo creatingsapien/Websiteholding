@@ -1,9 +1,9 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: F8BC03
-  secondary: ce2c05
-  secondary-dark: 383457
-  muted: 8CA5C3
+  primary: CE2C05 #Red
+  secondary: F8BC03 #Yellow
+  secondary-dark: 383457 #Dark Blue
+  muted: 8CA5C3 #Periwinkle
 
 # Font Families
 font:
