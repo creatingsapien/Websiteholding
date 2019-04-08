@@ -12,7 +12,7 @@ people:
   pic: 1
   position: Co-founder and CEO
   social:
-    - title: linkedin-in
+    - title: linkedin
       url: https://www.linkedin.com/in/mattstevenson2/
 
 
@@ -22,7 +22,7 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/GunnarKleemann
-    - title: linkedin-in
+    - title: linkedin
       url: https://www.linkedin.com/in/gunnarkleemann/
     - title: globe
       url: http://gunnarkleemann.net
@@ -32,7 +32,7 @@ people:
   pic: 3
   position: Senior Data Scientist
   social:
-    - title: linkedin-in
+    - title: linkedin
       url: https://www.linkedin.com/in/mattstevenson2/
 
 - name: Andrew Larimer
@@ -41,13 +41,13 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/andrewlarimer
-    - title: linkedin-in
+    - title: linkedin
       url: https://www.linkedin.com/in/andrewlarimer/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
-  - title: linkedin-in
+  - title: linkedin
     url: https://www.linkedin.com/company/berkeley-data-science-group
   - title: facebook
     url: https://www.facebook.com/BerkeleyDataScienceGroup/
