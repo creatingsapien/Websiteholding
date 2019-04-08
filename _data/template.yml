@@ -3,7 +3,7 @@ color:
   primary: CE2C05 #Red
   secondary: F8BC03 #Yellow
   secondary-dark: 383457 #Dark Blue
-  muted: 8CA5C3 #Periwinkle
+  muted: 777
 
 # Font Families
 font:
