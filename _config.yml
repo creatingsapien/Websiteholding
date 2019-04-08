@@ -4,15 +4,15 @@ baseurl: ""
 # Site settings
 title: Berkeley Data Science Group
 email: team@bds.group
-description: "We build your data science solutions!" 
+description: "We build your data science solutions!"
 
 # Team names, titles and social links
 people:
 - name: Denis Vrdoljak MIDS
   pic: 1
-  position: Co-founder and CEO 
-  social: 
-    - title: Linkedin
+  position: Co-founder and CEO
+  social:
+    - title: linked-in
       url: https://www.linkedin.com/in/mattstevenson2/
 
 
@@ -22,27 +22,36 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/GunnarKleemann
-    - title: Linkedin
+    - title: linked-in
       url: https://www.linkedin.com/in/gunnarkleemann/
-    - title: Research site
+    - title: globe
       url: http://gunnarkleemann.net
-   
+
 
 - name: Matt Stevenson MIDS
   pic: 3
   position: Senior Data Scientist
   social:
-    - title: Linkedin
+    - title: linked-in
       url: https://www.linkedin.com/in/mattstevenson2/
+
+- name: Andrew Larimer
+  pic: 4
+  position: Co-founder and Principal Data Scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/andrewlarimer
+    - title: linked-in
+      url: https://www.linkedin.com/in/andrewlarimer/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
-  - title: Linkedin
+  - title: linked-in
     url: https://www.linkedin.com/company/berkeley-data-science-group
-  - title: Facebook
+  - title: facebook
     url: https://www.facebook.com/BerkeleyDataScienceGroup/
-  - title: Github
+  - title: github
     url: https://github.com/BerkeleyDataScienceGroup
 
 # Postal address (add as many lines as necessary)
