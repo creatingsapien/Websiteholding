@@ -61,6 +61,11 @@ h6 {
     margin: 0 auto;
 }
 
+.img-solution {
+  height: 128px;
+  width: 128px;
+}
+
 .img-logo {
   height:50px;
   margin-top:-15px;
