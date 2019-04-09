@@ -62,8 +62,9 @@ h6 {
 }
 
 .img-solution {
-  height: 128px;
-  width: 128px;
+  height: 196px;
+  width: 196px;
+  padding-bottom:20px;
 }
 
 .img-logo {
